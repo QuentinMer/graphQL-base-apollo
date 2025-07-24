@@ -86,7 +86,7 @@ query {
 - **Apollo Server** - Serveur GraphQL moderne
 - **Express** - Framework web pour Node.js
 - **GraphQL** - Langage de requête et runtime
-- **Lodash** - Utilitaires JavaScript
+- **Axios** - Client HTTP pour les appels API
 
 ## 📚 Ressources
 
